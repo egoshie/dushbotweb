@@ -65,12 +65,3 @@ button {
 button:hover {
     background-color: #9b59b6;
 }
-footer {
-    text-align: center;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-    padding: 10px 0;
-    background-color: rgba(0, 0, 0, 0.8);
-    color: #ddd;
-}
