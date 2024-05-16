@@ -48,6 +48,10 @@ li {
 li:hover {
     transform: scale(1.05);
 }
+.oylink {
+    color: red;
+    text-decoration: none;
+}
 button {
     background-color: #8e44ad;
     color: #fff;
